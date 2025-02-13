@@ -15,8 +15,7 @@ body{
     font-size:1.5rem;
     padding:1rem;
     font-family:monospace;
-    color:#ebd9fc;
-    background-color:rgb(126, 8, 132);
+    color:rgb(126, 8, 132);
     display:inline-flex;
 }
 
